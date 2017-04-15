@@ -1,4 +1,4 @@
-Copyright (c) 2015-present Greg Hurrell
+Copyright (c) 2017-present Greg Hurrell
 
 # MIT License
 
